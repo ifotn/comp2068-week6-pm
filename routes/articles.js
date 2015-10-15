@@ -49,7 +49,7 @@ router.post('/add', function(req, res, next) {
     });
 });
 
-// GET edit page - show the current article
+// GET edit page - show the current article in the form
 router.get('/:id', function(req, res, next) {
 
     var id = req.params.id;

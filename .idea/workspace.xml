@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2832321-2dcd-4a83-b9f3-dab0b1c202fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson6/views/articles/add.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/articles/add.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../lesson6/views/articles/edit.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/articles/edit.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/week6_node_modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/views/articles/add.ejs" afterPath="$PROJECT_DIR$/../lesson6/views/articles/add.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/articles.js" afterPath="$PROJECT_DIR$/routes/articles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../lesson6/views/articles/edit.ejs" afterPath="$PROJECT_DIR$/../lesson6/views/articles/edit.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <ignored path="week6.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,8 +59,8 @@
       <file leaf-file-name="articles.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/articles.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70427555">
-              <caret line="111" column="7" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.31947744">
+              <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -101,7 +99,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -110,8 +108,8 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/articles/index.ejs" />
         <option value="$PROJECT_DIR$/views/articles/edit.ejs" />
-        <option value="$PROJECT_DIR$/routes/articles.js" />
         <option value="$PROJECT_DIR$/views/articles/add.ejs" />
+        <option value="$PROJECT_DIR$/routes/articles.js" />
       </list>
     </option>
   </component>
@@ -385,8 +383,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/articles.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70427555">
-          <caret line="111" column="7" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.31947744">
+          <caret line="51" column="55" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
           <folding />
         </state>
       </provider>
