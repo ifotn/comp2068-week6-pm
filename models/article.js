@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 
-// define the object schema
+// DEFINE THE OBJECT SCHEMA
 var articleSchema = new mongoose.Schema( {
     created: {
         type: Date,
@@ -19,5 +19,5 @@ var articleSchema = new mongoose.Schema( {
     }
 });
 
-// make this public so the controller can see it
+// MAKE THIS PUBLIC SO THE CONTROLLER CAN SEE IT
 module.exports = mongoose.model('Article', articleSchema);

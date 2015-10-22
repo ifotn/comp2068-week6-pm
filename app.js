@@ -20,7 +20,8 @@ var app = express();
 //mongoose.connect('mongodb://localhost/comp2068-pm');
 
 // live
-mongoose.connect('mongodb://gcrfreeman:dbpass1244@ds048368.mongolab.com:48368/comp2068-afternoon');
+//mongoose.connect('mongodb://gcrfreeman:dbpass1244@ds048368.mongolab.com:48368/comp2068-afternoon');
+mongoose.connect('mongodb://test1043:test1043@ds042128.mongolab.com:42128/test1043');
 
 // check connection
 var db = mongoose.connection;
@@ -78,3 +79,5 @@ app.use(function(err, req, res, next) {
 
 
 module.exports = app;
+
+// denotes file
